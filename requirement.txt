@@ -1,0 +1,58 @@
+# Core LangChain + LangGraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+langsmith
+
+# LLM providers
+langchain-openai
+openai
+langchain-groq
+groq
+langchain-google-genai
+google-genai
+langchain-anthropic
+anthropic
+langchain-ollama
+
+# RAG, embeddings, and vector stores
+langchain-chroma
+chromadb
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+
+# Document loading and processing
+pypdf
+python-docx
+beautifulsoup4
+lxml
+unstructured
+pymupdf
+
+# Search and web tools
+tavily-python
+duckduckgo-search
+wikipedia
+
+# APIs, apps, and configuration
+fastapi
+uvicorn[standard]
+streamlit
+python-dotenv
+pydantic
+httpx
+requests
+
+# Data processing and utilities
+numpy
+pandas
+scikit-learn
+tiktoken
+tenacity
+
+# Optional: notebooks and experimentation
+jupyter
+ipykernel
